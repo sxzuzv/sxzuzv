@@ -3,7 +3,7 @@
 ### Hi there *:✧˖(🍀˘͈ ᵕ˘͈)(˘͈ᵕ ˘͈.ෆ)✧˖°:
 느릿느릿 나아가는 개발자입니다! <br><br>
 
-🌱 배우고 있어요
+### 🌱 배우고 있어요
   
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,17 +13,34 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <br><br>
 
-🪄 사용해요
+### 🪄 사용해요
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+<br><br>
+
     
-🔭 배우고 싶어요
-    
+### 🔭 배우고 싶어요
+  
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<br><br>
+
+### 느릿느릿
+|기간|내용|WITH|
+|---|---|---|
+|2023.09~|에듀테크 풀스택 개발자(java) 3기|천재IT교육센터|
+|2023.02|AI학부(AI소프트웨어전공) 졸업|비공개|
+
+
+
+
+
+
+
+
 
 
 <!--
