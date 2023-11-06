@@ -1,4 +1,4 @@
-![으쌰으쌰](https://github.com/sxzuzv/sxzuzv/assets/106226864/c5b3ac49-fecd-462b-95dc-2cc570884c63)
+![i14428252807](https://github.com/sxzuzv/sxzuzv/assets/106226864/c28b58e0-1d85-40be-8a51-f33105ffb4b6)
 
 ### Hello World *:✧˖(🍀˘͈ ᵕ˘͈)(˘͈ᵕ ˘͈.ෆ)✧˖°:
 느릿느릿 나아가는 개발자입니다! <br><br>
