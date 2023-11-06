@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
     
 🔭 배우고 싶어요
     
