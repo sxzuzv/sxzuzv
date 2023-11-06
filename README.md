@@ -33,8 +33,8 @@
 |기간|프로젝트|분류|
 |---|---|---|
 |2023.10|[JAVA와 DB(MyBatis)를 활용한 주소록 CRUD 프로그램](https://github.com/sxzuzv/Chunjae_IT_Fullstack_Personal_Project/tree/main/addres_mybatis)|개인 프로젝트|
-|2023.10|[HTML, CSSm JavaScript를 활용한 개인 웹 페이지](https://github.com/sxzuzv/Chunjae_IT_Fullstack_Personal_Project/tree/main/web_project)|개인 프로젝트|
-
+|2023.10|[HTML, CSS, JavaScript를 활용한 개인 웹 페이지](https://github.com/sxzuzv/Chunjae_IT_Fullstack_Personal_Project/tree/main/web_project)|개인 프로젝트|
+<br><br>
 
   
 ### 🚶🏻‍♀️ 느릿느릿
