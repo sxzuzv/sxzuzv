@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&text=Hello_World!)
+![으쌰으쌰](https://github.com/sxzuzv/sxzuzv/assets/106226864/c5b3ac49-fecd-462b-95dc-2cc570884c63)
 
 ### Hello World *:✧˖(🍀˘͈ ᵕ˘͈)(˘͈ᵕ ˘͈.ෆ)✧˖°:
 느릿느릿 나아가는 개발자입니다! <br><br>
