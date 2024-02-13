@@ -1,6 +1,7 @@
-![i14428252807](https://github.com/sxzuzv/sxzuzv/assets/106226864/c28b58e0-1d85-40be-8a51-f33105ffb4b6)
+<img src="https://github.com/sxzuzv/sxzuzv/assets/106226864/b1e29432-f755-4bfa-b30a-5a27ba69ff0c" width="30%" height="30%">
+
 ### *Hello World *:✧˖(🍀˘͈ ᵕ˘͈)(˘͈ᵕ ˘͈.ෆ)✧˖°:**
-차근차근 나아가는 개발자입니다!
+<em>차근차근 나아가는 개발자 신수진입니다!</em>
 <br><br>
 
 ### 🔭 Main Tech Stacks & Tools 🔭
@@ -42,9 +43,9 @@
 
 
 ### 👩🏻‍💻 Education
-✔️ EduTech Full-Stack Developer(Java) Training Course _ Chunjae IT Education Center
+• (2023.09-2024.03) EduTech Full-Stack Developer(Java) Training Course _ Chunjae IT Education Center
 <br>
-✔️ Daegu Univ, Department of Artificial Intelligence
+• (2023.02) Daegu Univ, Department of Artificial Intelligence
 
 <br>
 
