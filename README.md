@@ -1,11 +1,9 @@
-<div align="center">
-
 ![i14428252807](https://github.com/sxzuzv/sxzuzv/assets/106226864/c28b58e0-1d85-40be-8a51-f33105ffb4b6)
 ### *Hello World *:✧˖(🍀˘͈ ᵕ˘͈)(˘͈ᵕ ˘͈.ෆ)✧˖°:**
 차근차근 나아가는 개발자입니다!
 <br><br>
 
-### 🔭 Main Technology Stacks 🔭
+### 🔭 Main Tech Stacks & Tools 🔭
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=white)
 ![JSP](https://img.shields.io/badge/Jsp-EE0000?style=for-the-badge&logo=Jsp&logoColor=white)
@@ -23,7 +21,7 @@
 <br>
 
 
-### 🌱 I'm learning!
+### 🌱 I'm Learning!
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
  <br><br>
 
@@ -36,18 +34,23 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![amazonec2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+<br>
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-<br><br><br>
+<br><br>
 
 
 
 ### 👩🏻‍💻 Education
-✔️ EduTech Full-Stack Developer Training Course _ Chunjae IT Education Center
+✔️ EduTech Full-Stack Developer(Java) Training Course _ Chunjae IT Education Center
 <br>
 ✔️ Daegu Univ, Department of Artificial Intelligence
 
-<br><br>
+<br>
+
+
+### 📬 Contact
+<a href="mailto:pofoxz@gmail.com">![gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
 
 
 
