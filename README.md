@@ -51,7 +51,7 @@
 
 
 ### 📬 Contact
-<a href="mailto:pofoxz@gmail.com">![gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
+<a href="mailto:devszxn@gmail.com">![gmail](https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)</a>
 
 
 
