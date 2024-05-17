@@ -41,7 +41,7 @@
 
 
 
-### 👩🏻‍💻 Education
+### 👩🏻‍💻 Work & Education
 • (2024.05-) Internship _ Chunjae Education
 <br>
 • (2023.09-2024.03) EduTech Full-Stack Developer(Java) Training Course _ Chunjae IT Education Center
