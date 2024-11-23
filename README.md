@@ -1,7 +1,7 @@
 <img src="https://github.com/sxzuzv/sxzuzv/assets/106226864/b1e29432-f755-4bfa-b30a-5a27ba69ff0c" width="30%" height="30%">
 
 ### *Hello World *:✧˖(🍀˘͈ ᵕ˘͈)(˘͈ᵕ ˘͈.ෆ)✧˖°:**
-<em>차근차근 나아가는 개발자 신수진입니다!</em>
+<!-- <em>차근차근 나아가는 개발자 신수진입니다!</em> -->
 <br><br>
 
 ### 🔭 Main Tech Stacks & Tools 🔭
