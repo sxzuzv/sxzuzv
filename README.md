@@ -2,7 +2,7 @@
 
 ### *Hello World *:✧˖(🍀˘͈ ᵕ˘͈)(˘͈ᵕ ˘͈.ෆ)✧˖°:**
 <!-- <em>차근차근 나아가는 개발자 신수진입니다!</em> -->
-<br><br>
+<br>
 
 ### 🔭 Main Tech Stacks & Tools 🔭
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
